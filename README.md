@@ -23,5 +23,5 @@ This task helped in understanding the practical application of algorithms in rea
 
 ---
 ## OUTPUT
-
-
+<img width="1638" height="186" alt="Image" src="https://github.com/user-attachments/assets/0ea24578-acaa-43ca-b79a-ec7ff337c29f" />
+<img width="1617" height="141" alt="Image" src="https://github.com/user-attachments/assets/96c87429-4e7e-454e-8b74-15b97e75805b" />
